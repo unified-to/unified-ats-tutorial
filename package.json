@@ -1,0 +1,25 @@
+{
+  "name": "unified-ats-tutorial",
+  "version": "1.0.0",
+  "description": "A tutorial app for Unified.to ATS integration",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "unified",
+    "ats",
+    "tutorial"
+  ],
+  "author": "Unified.to",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.4",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
