@@ -1,6 +1,6 @@
-# Unified ATS Tutorial Starter App
+# Unified Javascript Tutorial Starter App
 
-This repository contains the starter code for the Unified ATS Tutorial. Follow the steps below to set up and run the application.
+This repository contains the starter code for the Unified Javascript Tutorial. Follow the steps below to set up and run the application.
 
 ## Prerequisites
 
@@ -39,7 +39,7 @@ You'll also need a Unified.to account. If you don't have one, [sign up here](htt
 
 ## Tutorial
 
-This starter app is part of the Unified ATS Tutorial. As you progress through the tutorial, you'll add more functionality to this app, allowing it to connect to the Unified.to API and fetch candidate data from an Applicant Tracking System.
+This starter app is part of the Unified Javascript Tutorial. As you progress through the tutorial, you'll add more functionality to this app, allowing it to connect to the Unified.to API and fetch data from an Applicant Tracking System.
 
 ## Troubleshooting
 
