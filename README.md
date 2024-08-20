@@ -32,10 +32,10 @@ You'll also need a Unified.to account. If you don't have one, [sign up here](htt
 1. To start the application in development mode (with auto-reload):
 
    ```
-   npm run dev
+   npm run start
    ```
 
-2. Open your web browser and navigate to `http://localhost:3000` to view the app.
+2. Open your web browser and navigate to `http://localhost:1234` to view the app.
 
 ## Tutorial
 
