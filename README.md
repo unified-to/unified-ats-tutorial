@@ -51,5 +51,3 @@ If you encounter any issues:
 - Check the console for any error messages
 
 If problems persist, please refer to the tutorial documentation or reach out to Unified.to support.
-
-## License
